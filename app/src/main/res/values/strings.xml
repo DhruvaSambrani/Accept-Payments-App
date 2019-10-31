@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LDS Halloween Finance</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971041689490",
+    "firebase_url": "https://fresher-s-day.firebaseio.com",
+    "project_id": "fresher-s-day",
+    "storage_bucket": "fresher-s-day.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971041689490:android:9bcc821a6e61ff35",
+        "android_client_info": {
+          "package_name": "com.dhruva.freshers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971041689490-0rcr01elg902502j7j6pckbvq0ma7af7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIQTwpqJIDs-bfp9SNwnLwu1IG9ZLEzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971041689490-0rcr01elg902502j7j6pckbvq0ma7af7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
